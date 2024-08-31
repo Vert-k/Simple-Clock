@@ -2,7 +2,7 @@
 
 Welcome to **Simple Clock**! This is a clean and minimalist digital clock project that shows the current time in style. Perfect for those who appreciate simplicity with a touch of elegance.
 
-![Clock Preview](https://via.placeholder.com/800x400.png?text=Simple+Clock+Preview)
+![Clock Preview](./Simple-Clock.jpg)
 
 ## 🌟 Features
 
@@ -42,7 +42,7 @@ Want to make the clock your own? Here’s how you can customize it:
 - **Add Features**: Feel free to expand this project with alarms, stopwatch functionality, or even a countdown timer.
 
 ## 👨‍💻 Contributing
-
+⁶
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📜 License
